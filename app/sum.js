@@ -4,5 +4,9 @@
 export default {
     add(a, b) {
         return (a + b);
+    },
+
+    plus(c, d) {
+        return (c+d);
     }
 };
